@@ -1,0 +1,63 @@
+.container{
+    width: 800px;
+    height: 600px;
+    padding: 70px;
+    text-align: center;
+    margin: auto;
+    background-color: black;
+    opacity: 75%;
+}
+
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+
+.logo{
+    width: 250px;
+    display: block;
+    margin: auto;
+    
+}
+
+.logo-text{
+    font-size: 22px;
+    color: chartreuse;
+    text-align: center;
+}
+
+.prenotazioni{
+    background-color: chartreuse;
+    margin: auto;
+    padding: 10px;
+}
+
+div.Monopattini{
+    padding: 20px;
+    text-align: left;
+    width: 650px;
+    color: white;
+}
+
+.descrizione{
+    font-size: 14px;
+}
+
+.carica{
+    background-color: darkgoldenrod;
+    width: 250px;
+}
+
+.carica2{
+    background-color: green;
+    width: 480px;
+}
+
+.carica3{
+    background-color: red;
+    width: 110px;
+}
+
+span{
+    font-size: 26px;
+}
